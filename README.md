@@ -1,2 +1,2 @@
 # NB-IoT_demo_projects
-Demo projects for testing connection of GSM module (SIMCom SIM7000G) to the cloud services using Vodafone's NB-IoT network.
+Demo projects testing the connection of GSM module (SIMCom SIM7000G) to the IoT cloud services using Vodafone's NB-IoT network.
