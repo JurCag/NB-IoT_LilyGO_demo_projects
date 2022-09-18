@@ -1,3 +1,6 @@
+#Ignore AWS folder with certificates
+AWS_certificates/
+
 # Prerequisites
 *.d
 
