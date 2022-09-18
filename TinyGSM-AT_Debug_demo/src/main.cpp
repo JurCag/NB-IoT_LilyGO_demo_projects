@@ -45,7 +45,7 @@ SoftwareSerial SerialAT(2, 3);  // RX, TX
 #include <TinyGsmClient.h>
 
 // Module baud rate
-uint32_t rate = 0; // Set to 0 for Auto-Detect
+uint32_t rate = 0; // Set to 0 for Auto-Detectb
 
 void setup() {
   // Set console baud rate

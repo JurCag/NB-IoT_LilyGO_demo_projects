@@ -33,15 +33,15 @@
 HardwareSerial  gsmSerial(1);
 
 #ifdef USE_GSM
-// GSM connection info.
-char apn[] = "lpwa.vodafone.com"; // Access point name. Leave empty if it is not needed.
-char gprsLogin[] = ""; // GPRS username. Leave empty if it is not needed.
-char gprsPassword[] = ""; // GPRS password. Leave empty if it is not needed.
-char pin[] = ""; // SIM pin number. Leave empty if it is not needed.
+    // GSM connection info.
+    char apn[] = "lpwa.vodafone.com"; // Access point name. Leave empty if it is not needed.
+    char gprsLogin[] = ""; // GPRS username. Leave empty if it is not needed.
+    char gprsPassword[] = ""; // GPRS password. Leave empty if it is not needed.
+    char pin[] = ""; // SIM pin number. Leave empty if it is not needed.
 #else
-// WiFi network info.
-char ssid[] = "your wifi ssid";
-char wifiPassword[] = "your wifi password";
+    // WiFi network info.
+    char ssid[] = "your wifi ssid";
+    char wifiPassword[] = "your wifi password";
 #endif
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
