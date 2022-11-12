@@ -1,0 +1,96 @@
+{
+	"folders": [
+		{
+			"name": "TinyGSM-AT_Debug_demo",
+			"path": "TinyGSM-AT_Debug_demo"
+		},
+		{
+			"name": "Diagnostics_demo",
+			"path": "Diagnostics_demo"
+		},
+		{
+			"name": "ThingSpeak_demo",
+			"path": "ThingSpeak_demo"
+		},
+		{
+			"name": "Cayenne_MQTT_demo",
+			"path": "Cayenne_MQTT_demo"
+		},
+		{
+			"name": "WiFi_ping_demo",
+			"path": "WiFi_ping_demo"
+		},
+		{
+			"name": "Cayenne_MQTT_WiFi_demo",
+			"path": "Cayenne_MQTT_WiFi_demo"
+		},
+		{
+			"name": "MQTT_Client_demo",
+			"path": "MQTT_Client_demo"
+		},
+		{
+			"name": "BME280_serial_demo",
+			"path": "BME280_serial_demo"
+		},
+		{
+			"name": "AWS_IoT_WiFi_demo",
+			"path": "AWS_IoT_WiFi_demo"
+		},
+		{
+			"name": "MQTT_Client_WiFi_demo",
+			"path": "MQTT_Client_WiFi_demo"
+		},
+		{
+			"name": "DEBUG_Blink_demo",
+			"path": "DEBUG_Blink_demo"
+		},
+		{
+			"name": "MQTT_Client_raw_demo",
+			"path": "MQTT_Client_raw_demo"
+		},
+		{
+			"name": "MQTT_SecureClient_demo",
+			"path": "MQTT_SecureClient_demo"
+		},
+		{
+			"name": "MQTT_Certif_raw_demo",
+			"path": "MQTT_Certif_raw_demo"
+		},
+		{
+			"name": "221001-104220-espidf-peripherals-uart",
+			"path": "../../../../../OneDrive/Dokumenty/PlatformIO/Projects/221001-104220-espidf-peripherals-uart"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sdkconfig.h": "c",
+			"led_strip.h": "c",
+			"esp_log.h": "c",
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"*.tpp": "cpp",
+			"*.ipp": "cpp",
+			"chrono": "cpp",
+			"*.tcc": "cpp",
+			"fstream": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"streambuf": "cpp",
+			"stdio.h": "c",
+			"uart.h": "c",
+			"gpio.h": "c",
+			"esp_intr_alloc.h": "c",
+			"uart_reg.h": "c",
+			"uart_struct.h": "c",
+			"freertos.h": "c"
+		}
+	}
+}

@@ -1,3 +1,5 @@
+ESP-IDF_platform/
+
 #Ignore AWS folder with certificates
 AWS_certificates/
 
